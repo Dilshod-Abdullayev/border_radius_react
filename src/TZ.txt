@@ -1,0 +1,7 @@
+navbarda logo va soat ko`rsatib turishi.Dark mode rejimi
+Sidebar qo`yish
+Sidebar 1.Border radius haqida document,link
+Sidebar 2.Video darsliklar border radius haqida
+Sidebar 3.Border radius hajmi 
+Sidebar 4.Border radius genertor
+Sidebar 5.Border change color
