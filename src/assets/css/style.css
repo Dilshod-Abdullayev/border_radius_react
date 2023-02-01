@@ -1,0 +1,20 @@
+.link__route {
+  text-decoration: none;
+}
+.main__middle {
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+.sidebar {
+  width: 650px;
+  height: 100%;
+}
+.sidebar__none {
+  display: none;
+}
+.main__middle-routes {
+  height: 100%;
+  background-color: black;
+  width: 100vw;
+}
